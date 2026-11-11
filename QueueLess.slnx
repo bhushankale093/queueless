@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/QueueLess.Cli/QueueLess.Cli.csproj" />
+    <Project Path="src/QueueLess.Domain/QueueLess.Domain.csproj" />
+  </Folder>
+</Solution>
